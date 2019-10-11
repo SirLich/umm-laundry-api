@@ -1,1 +1,881 @@
-[{"id": "", "type": "washer", "running": true, "status": "normal", "room_id": "gay_hall"}, {"id": "e2cc094c-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc094d-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "pine"}, {"id": "e2cc094e-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc094f-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0950-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0951-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "pine"}, {"id": "e2cc0952-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0953-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0954-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "pine"}, {"id": "e2cc0955-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0956-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "pine"}, {"id": "e2cc0957-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0958-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc0959-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc095a-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "pine"}, {"id": "e2cc095b-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "blakely"}, {"id": "e2cc095c-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc095d-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "blakely"}, {"id": "e2cc095e-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc095f-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0960-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0961-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0962-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0963-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0964-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "blakely"}, {"id": "e2cc0965-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0966-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0967-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0968-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0969-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc096a-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc096b-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "pine"}, {"id": "e2cc096c-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "blakely"}, {"id": "e2cc096d-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "independence"}, {"id": "e2cc096e-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc096f-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0970-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0971-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc0972-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "independence"}, {"id": "e2cc0973-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc0974-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "independence"}, {"id": "e2cc0975-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0976-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0977-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "blakely"}, {"id": "e2cc0978-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0979-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "blakely"}, {"id": "e2cc097a-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc097b-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "spooner"}, {"id": "e2cc097c-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc097d-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc097e-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "pine"}, {"id": "e2cc097f-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "blakely"}, {"id": "e2cc0980-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0981-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0982-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0983-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0984-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "gay"}, {"id": "e2cc0985-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0986-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0987-ea02-11e9-8788-902b34113095", "type": "washer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0988-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0989-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "blakely"}, {"id": "e2cc098a-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "spooner"}, {"id": "e2cc098b-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc098c-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc098d-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "spooner"}, {"id": "e2cc098e-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc098f-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "pine"}, {"id": "e2cc0990-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "independence"}, {"id": "e2cc0991-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0992-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "blakely"}, {"id": "e2cc0993-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0994-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "spooner"}, {"id": "e2cc0995-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "gay"}, {"id": "e2cc0996-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0997-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "blakely"}, {"id": "e2cc0998-ea02-11e9-8788-902b34113095", "type": "dryer", "running": false, "status": "normal", "room_id": "the_apartments"}, {"id": "e2cc0999-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "pine"}, {"id": "e2cc099a-ea02-11e9-8788-902b34113095", "type": "dryer", "running": true, "status": "normal", "room_id": "green_prairie"}, {"id": "e2cc099b-ea02-11e9-8788-902b34113095", "type": "washer", "running": true, "status": "normal", "room_id": "green_prairie"}]
+[{
+	"id": "080258ae-ec80-11e9-8788-902b34113095",
+	"name": "ready-cerulean-kakapo",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258af-ec80-11e9-8788-902b34113095",
+	"name": "wiggy-linen-mist",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258b0-ec80-11e9-8788-902b34113095",
+	"name": "squeaky-burgundy-forest",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258b1-ec80-11e9-8788-902b34113095",
+	"name": "snappy-brown-badger",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258b2-ec80-11e9-8788-902b34113095",
+	"name": "silly-apricot-burmese",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258b3-ec80-11e9-8788-902b34113095",
+	"name": "randy-peach-vole",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258b4-ec80-11e9-8788-902b34113095",
+	"name": "whiny-champagne-ibis",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258b5-ec80-11e9-8788-902b34113095",
+	"name": "pokey-cerise-lemming",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258b6-ec80-11e9-8788-902b34113095",
+	"name": "droopy-ruby-yak",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258b7-ec80-11e9-8788-902b34113095",
+	"name": "jumpy-fuchsia-dogfish",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258b8-ec80-11e9-8788-902b34113095",
+	"name": "greasy-xanthic-serval",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258b9-ec80-11e9-8788-902b34113095",
+	"name": "lumpy-lilac-tuatara",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258ba-ec80-11e9-8788-902b34113095",
+	"name": "skimpy-lemon-dane",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258bb-ec80-11e9-8788-902b34113095",
+	"name": "sleazy-smalt-quetzal",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258bc-ec80-11e9-8788-902b34113095",
+	"name": "droopy-ultramarine-anteater",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258bd-ec80-11e9-8788-902b34113095",
+	"name": "chummy-russet-crocodile",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258be-ec80-11e9-8788-902b34113095",
+	"name": "skinny-charcoal-affenpinscher",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258bf-ec80-11e9-8788-902b34113095",
+	"name": "sunny-maroon-fossa",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258c0-ec80-11e9-8788-902b34113095",
+	"name": "tasty-gamboge-tarsier",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258c1-ec80-11e9-8788-902b34113095",
+	"name": "scanty-gold-peccary",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258c2-ec80-11e9-8788-902b34113095",
+	"name": "boozy-silver-cuttlefish",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258c3-ec80-11e9-8788-902b34113095",
+	"name": "frumpy-jade-wolverine",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258c4-ec80-11e9-8788-902b34113095",
+	"name": "stealthy-viridian-chamois",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258c5-ec80-11e9-8788-902b34113095",
+	"name": "snazzy-bronze-wolfhound",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258c6-ec80-11e9-8788-902b34113095",
+	"name": "beady-sangria-skunk",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258c7-ec80-11e9-8788-902b34113095",
+	"name": "foggy-lavender-starfish",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258c8-ec80-11e9-8788-902b34113095",
+	"name": "craggy-razzmatazz-swan",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258c9-ec80-11e9-8788-902b34113095",
+	"name": "snoopy-maroon-giraffe",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258ca-ec80-11e9-8788-902b34113095",
+	"name": "boozy-lime-scorpion",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258cb-ec80-11e9-8788-902b34113095",
+	"name": "sleepy-ivory-spaniel",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258cc-ec80-11e9-8788-902b34113095",
+	"name": "flaky-orange-ocelot",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258cd-ec80-11e9-8788-902b34113095",
+	"name": "muggy-malachite-fish",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258ce-ec80-11e9-8788-902b34113095",
+	"name": "jumpy-olivine-argentino",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258cf-ec80-11e9-8788-902b34113095",
+	"name": "skimpy-pink-buzzard",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258d0-ec80-11e9-8788-902b34113095",
+	"name": "sunny-tangerine-sheep",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258d1-ec80-11e9-8788-902b34113095",
+	"name": "zippy-salmon-bonobo",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258d2-ec80-11e9-8788-902b34113095",
+	"name": "shaggy-cobalt-pig",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258d3-ec80-11e9-8788-902b34113095",
+	"name": "woolly-persimmon-tarsier",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258d4-ec80-11e9-8788-902b34113095",
+	"name": "wiggy-burgundy-angelfish",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258d5-ec80-11e9-8788-902b34113095",
+	"name": "tasty-orange-bloodhound",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258d6-ec80-11e9-8788-902b34113095",
+	"name": "freaky-plum-deer",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258d7-ec80-11e9-8788-902b34113095",
+	"name": "jumpy-taupe-greyhound",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258d8-ec80-11e9-8788-902b34113095",
+	"name": "thirsty-purple-mongrel",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258d9-ec80-11e9-8788-902b34113095",
+	"name": "squirrely-purple-squid",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "green_prairie"
+}, {
+	"id": "080258da-ec80-11e9-8788-902b34113095",
+	"name": "leaky-zucchini-grouse",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258db-ec80-11e9-8788-902b34113095",
+	"name": "craggy-mauve-tapir",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258dc-ec80-11e9-8788-902b34113095",
+	"name": "queasy-buff-dingo",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258dd-ec80-11e9-8788-902b34113095",
+	"name": "clammy-aqua-bison",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258de-ec80-11e9-8788-902b34113095",
+	"name": "baggy-cream-budgerigar",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258df-ec80-11e9-8788-902b34113095",
+	"name": "baggy-plum-tetra",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258e0-ec80-11e9-8788-902b34113095",
+	"name": "snappy-auburn-quetzal",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258e1-ec80-11e9-8788-902b34113095",
+	"name": "homey-flax-devil",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258e2-ec80-11e9-8788-902b34113095",
+	"name": "cloudy-sapphire-tortoise",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258e3-ec80-11e9-8788-902b34113095",
+	"name": "silly-amaranth-panda",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258e4-ec80-11e9-8788-902b34113095",
+	"name": "slimy-aqua-retriever",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258e5-ec80-11e9-8788-902b34113095",
+	"name": "gamy-apricot-mau",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258e6-ec80-11e9-8788-902b34113095",
+	"name": "lousy-thistle-lion",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258e7-ec80-11e9-8788-902b34113095",
+	"name": "hazy-seashell-fish",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258e8-ec80-11e9-8788-902b34113095",
+	"name": "craggy-white-spitz",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258e9-ec80-11e9-8788-902b34113095",
+	"name": "randy-white-squirt",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258ea-ec80-11e9-8788-902b34113095",
+	"name": "ready-eggplant-frog",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258eb-ec80-11e9-8788-902b34113095",
+	"name": "dorky-blue-turtle",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258ec-ec80-11e9-8788-902b34113095",
+	"name": "gimpy-ultramarine-wolverine",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258ed-ec80-11e9-8788-902b34113095",
+	"name": "ready-brown-grouse",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258ee-ec80-11e9-8788-902b34113095",
+	"name": "sleazy-chartreuse-vole",
+	"type": "dryer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258ef-ec80-11e9-8788-902b34113095",
+	"name": "blurry-chartreuse-goat",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258f0-ec80-11e9-8788-902b34113095",
+	"name": "cozy-xanthic-ant",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258f1-ec80-11e9-8788-902b34113095",
+	"name": "beady-mauve-eagle",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258f2-ec80-11e9-8788-902b34113095",
+	"name": "hazy-plum-ocelot",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258f3-ec80-11e9-8788-902b34113095",
+	"name": "foggy-brass-tarantula",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "the_apartments"
+}, {
+	"id": "080258f4-ec80-11e9-8788-902b34113095",
+	"name": "sunny-linen-mouse",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258f5-ec80-11e9-8788-902b34113095",
+	"name": "sleazy-chestnut-chow",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258f6-ec80-11e9-8788-902b34113095",
+	"name": "bumpy-cardinal-coyote",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258f7-ec80-11e9-8788-902b34113095",
+	"name": "whiny-pumpkin-wrasse",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "blakely"
+}, {
+	"id": "080258f8-ec80-11e9-8788-902b34113095",
+	"name": "flabby-silver-angelfish",
+	"type": "washer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "spooner"
+}, {
+	"id": "080258f9-ec80-11e9-8788-902b34113095",
+	"name": "shabby-indigo-opossum",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258fa-ec80-11e9-8788-902b34113095",
+	"name": "homely-russet-eel",
+	"type": "dryer",
+	"running": false,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "independence"
+}, {
+	"id": "080258fb-ec80-11e9-8788-902b34113095",
+	"name": "thirsty-yellow-chinook",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "gay"
+}, {
+	"id": "080258fc-ec80-11e9-8788-902b34113095",
+	"name": "fuzzy-malachite-millipede",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}, {
+	"id": "080258fd-ec80-11e9-8788-902b34113095",
+	"name": "lumpy-cinnamon-squirrel",
+	"type": "washer",
+	"running": true,
+	"status": "normal",
+	"position": {
+		"x": 0,
+		"y": 0
+	},
+	"room_id": "pine"
+}]
