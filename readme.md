@@ -1,6 +1,6 @@
 # UMM Laundy API
 
-This api is built using [Flask](https://www.fullstackpython.com/flask.html), which is a simple web-framework.
+This api is built using [Flask](https://www.fullstackpython.com/flask.html), which is a simple python web-framework.
 
 Json files can be found in the [static folder](app/static).
 
@@ -78,3 +78,15 @@ Machines:
 As you can see in the format above, machines come with a `x` and `y` position argument. This is currently set to 0, but eventually this will be used to show positioning of specific machines.
 
 The scale will be 0-6, or a 7x7 grid, which seems to be the right granularity to communicate the positioning.
+
+## Names:
+
+As you can see, each machine has a "name" slot. This is currently filled with silly random-gen names, but they can be handpicked later if desired. This is meant as a human-readable UUID for the machine, so you can easily identity machines.
+
+# Scripts
+
+This repo also contains two python utility scripts, both found in the `app/static` folder.
+
+gen_machines: This creates machines, and appends to the contents of `machines.json`. To create a fresh set of machines, just delete the contents of `machines.json`, and replace with a json list (`[]`), and run the script.
+
+machine_editor: This script should be run in its own thread. It will edit the contents of `machines.json` to emulate machines turning on and off.
