@@ -11,10 +11,10 @@ If this script isn't run, the data served up via the Flask server will be static
 '''
 
 
-WASHER_TIME = 0.5 #minutes, how long do washers run before turning off
-DRYER_TIME = 0.5 #minutes, how long do dryers run before turning off
-TICK_RATE = 4 #seconds, how many seconds to pause between updating the system
-MACHINE_START_CHANCE = 0.1 #Random number from 0-1 is generated each tick.
+WASHER_TIME = 46 #minutes, how long do washers run before turning off
+DRYER_TIME = 60 #minutes, how long do dryers run before turning off
+TICK_RATE = 10 #seconds, how many seconds to pause between updating the system
+MACHINE_START_CHANCE = 0.002 #Random number from 0-1 is generated each tick.
                            # If the num < MACHINE_START_CHANCE, then the machine'
                            # Will start runnin. This must be tuned based on TICK_RATE
 
