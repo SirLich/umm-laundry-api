@@ -22,6 +22,11 @@ import json
 # Otherwise, machines will be added as they change state.
 machines = {}
 
+# Utility method to get the correct machine representation for GET requests
+def get_clean_machines():
+    return list(machines.values())
+
+
 # Home route, used to provide information about the API
 @app.route('/')
 def home():
@@ -47,23 +52,28 @@ def get_rooms():
 # Returns all machines that the system knows about.
 @app.route('/machines')
 def get_machines():
-    return jsonify(machines)
+    print(machines)
+    print()
+    print(get_clean_machines())
+    return jsonify(get_clean_machines())
 
 # Returns machines, sorted by room.
 @app.route("/rooms/<room>/machines")
 def get_room(room):
-    output_dict = [x for x in machines if x['room_id'] == room]
+    output_dict = [x for x in get_clean_machines() if x['room_id'] == room]
     return jsonify(output_dict)
 
 # Returns a specific machine.
 @app.route('/machines/<machine>')
 def get_machine(machine):
-    output_dict = [x for x in machines if x['id'] == machine]
+    output_dict = [x for x in get_clean_machines() if x['id'] == machine]
     return jsonify(output_dict)
 
 # Update the status of new machines. 
 # New machines can be "added" by simply bringing them online, and setting up IFTTT rules for it.
 
+# A simple method to test using curl
+# curl -d {some_json} -X POST -H "Content-Type: application/json" http://127.0.0.1:5000/update_machine
 @app.route('/update_machine', methods=['POST'])
 def update_machine():
     if request.method == 'POST':
