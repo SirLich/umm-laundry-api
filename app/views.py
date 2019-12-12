@@ -78,10 +78,13 @@ def get_machine(machine):
 def update_machine():
     if request.method == 'POST':
         try:
-            raw = request.json
-            id = raw["id"]
-            machines[id] = raw
-            return '', 200
+            if(request.remote_addr in app.config['AUTHORIZED_CLIENTS']):
+                raw = request.json
+                id = raw["id"]
+                machines[id] = raw
+                return '', 200
+            else:
+                return '', 403
         except Exception as e:
             print(e)
             abort(400)
