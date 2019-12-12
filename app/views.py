@@ -2,6 +2,8 @@ from flask import render_template
 from flask import send_from_directory
 from flask import jsonify
 from flask import make_response
+from flask import request
+from flask import abort
 from app import app
 import json
 
@@ -11,7 +13,7 @@ import json
 # 	"name": "chummy-beige-dollar",
 # 	"type": "washer",
 # 	"running": false,
-# 	"status": "normal"
+# 	"status": "normal",
 # 	"room_id": "gay"
 # }
 
@@ -61,6 +63,7 @@ def get_machine(machine):
 
 # Update the status of new machines. 
 # New machines can be "added" by simply bringing them online, and setting up IFTTT rules for it.
+
 @app.route('/update_machine', methods=['POST'])
 def update_machine():
     if request.method == 'POST':
@@ -69,7 +72,8 @@ def update_machine():
             id = raw["id"]
             machines[id] = raw
             return '', 200
-        except:
-            "Something went wrong"
+        except Exception as e:
+            print(e)
+            abort(400)
     else:
         abort(400)
