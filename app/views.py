@@ -78,7 +78,7 @@ def get_machine(machine):
 def update_machine():
     if request.method == 'POST':
         try:
-            if(request.remote_addr in app.config['AUTHORIZED_CLIENTS']):
+            if(not app.config['SECURE'] or request.remote_addr in app.config['AUTHORIZED_CLIENTS']):
                 raw = request.json
                 id = raw["id"]
                 machines[id] = raw
